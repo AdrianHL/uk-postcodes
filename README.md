@@ -1,3 +1,7 @@
+````
+Project has been archived. uk-postcodes.com appears to no longer be active
+```
+
 [![Build Status](https://travis-ci.org/theodi/uk-postcodes.png)](https://travis-ci.org/theodi/uk-postcodes)
 [![Coverage Status](https://coveralls.io/repos/theodi/uk-postcodes/badge.png)](https://coveralls.io/r/theodi/uk-postcodes)
 [![License](http://img.shields.io/license/mit.png?color=green)](http://theodi.mit-license.org/)
